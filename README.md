@@ -1,48 +1,5 @@
 # 前瞻資訊科技導論 (CSIE3015)
 
-## 課程基本資訊
-
-- **課程名稱**: 前瞻資訊科技一 (Computer Science and Information Technology I)
-- **開課學期**: 114-1
-- **授課對象**: 資訊工程學系
-- **授課教師**: 蔡欣穆 (與多位教授合授)
-- **課號**: CSIE 3015
-- **課程辨識碼**: 902 39800
-- **學分**: 3
-- **上課時間**: 星期五 7,8,9 (14:20~17:20)
-- **上課地點**: 博雅103
-
-## 課程概述
-
-本系開授了很多課程，有些是必修課，所以資訊系的同學對這些領域都有基本的認識。同時有鑑於資訊學門還有很多領域，本系還開授了很多專精的選修課程。選修課程之眾多，就不是同學們可以一一修習的了。面對眾多領域，同學們在擇定大四專題或是研究所領域時，經常是茫然的。另一方面，擇定後，大部分同學僅專精於單一領域。倘若可以用較精簡時間對各個領域略有涉獵，應該有助於同學們對整體資訊學門的理解。本課程將由數位老師合開，原則上每位老師上兩週的課講解某個主題。
-
-## 課程目標
-
-本課程的目標在於讓修課同學：
-- 廣泛的涉獵資訊學門的各個領域
-- 了解自己之興趣、能力、強項所在；以利於未來擇定研究領域
-
-## 課程進度
-
-| 週次 | 日期 | 授課教師 | 單元主題 |
-|------|------|----------|----------|
-| 第1週 | 9/5 | 黎士瑋 | Introduction to computer systems and security research - operating systems |
-| 第2週 | 9/12 | 黎士瑋 | Introduction to computer systems and security research - security |
-| 第3週 | 9/19 | 蔡欣穆 | Vehicular Networking |
-| 第4週 | 9/26 | 陳維超 | Light Communications and Positioning |
-| 第5週 | 10/3 | TBD | TBD |
-| 第6週 | 10/10 | - | No Class; Taiwan National Day |
-| 第7週 | 10/17 | TBD | TBD |
-| 第8週 | 10/24 | - | No Class; Taiwan Restoration Day |
-| 第9週 | 10/31 | 羅紹元 | Trustworthy AI |
-| 第10週 | 11/7 | 羅紹元 | Trustworthy AI |
-| 第11週 | 11/14 | 鄧善元 | Multimodal Human-Computer Interaction |
-| 第12週 | 11/21 | - | No Class; School Sports Day |
-| 第13週 | 11/28 | 鄧善元 | Multimodal Human-Computer Interaction |
-| 第14週 | 12/5 | 張原豪 | Memory and Storage Systems |
-| 第15週 | 12/12 | 張原豪 | Memory-Centric Computing |
-| 第16週 | 12/19 | - | No Class; Final Exam Week |
-
 ## 課程筆記
 
 ### 課程介紹
@@ -80,6 +37,49 @@
 - **課程網站**: [https://www.csie.ntu.edu.tw/~hsinmu/site/courses/25fallcsit](https://www.csie.ntu.edu.tw/~hsinmu/site/courses/25fallcsit)
 - **NTU COOL**: [https://cool.ntu.edu.tw/courses/55220](https://cool.ntu.edu.tw/courses/55220)
 - **聯絡信箱**: [csit@csie.ntu.edu.tw](mailto:csit@csie.ntu.edu.tw)
+
+## 課程進度
+
+| 週次 | 日期 | 授課教師 | 單元主題 |
+|------|------|----------|----------|
+| 第1週 | 9/5 | 黎士瑋 | Introduction to computer systems and security research - operating systems |
+| 第2週 | 9/12 | 黎士瑋 | Introduction to computer systems and security research - security |
+| 第3週 | 9/19 | 蔡欣穆 | Vehicular Networking |
+| 第4週 | 9/26 | 陳維超 | Light Communications and Positioning |
+| 第5週 | 10/3 | TBD | TBD |
+| 第6週 | 10/10 | - | No Class; Taiwan National Day |
+| 第7週 | 10/17 | TBD | TBD |
+| 第8週 | 10/24 | - | No Class; Taiwan Restoration Day |
+| 第9週 | 10/31 | 羅紹元 | Trustworthy AI |
+| 第10週 | 11/7 | 羅紹元 | Trustworthy AI |
+| 第11週 | 11/14 | 鄧善元 | Multimodal Human-Computer Interaction |
+| 第12週 | 11/21 | - | No Class; School Sports Day |
+| 第13週 | 11/28 | 鄧善元 | Multimodal Human-Computer Interaction |
+| 第14週 | 12/5 | 張原豪 | Memory and Storage Systems |
+| 第15週 | 12/12 | 張原豪 | Memory-Centric Computing |
+| 第16週 | 12/19 | - | No Class; Final Exam Week |
+
+## 課程基本資訊
+
+- **課程名稱**: 前瞻資訊科技一 (Computer Science and Information Technology I)
+- **開課學期**: 114-1
+- **授課對象**: 資訊工程學系
+- **授課教師**: 蔡欣穆 (與多位教授合授)
+- **課號**: CSIE 3015
+- **課程辨識碼**: 902 39800
+- **學分**: 3
+- **上課時間**: 星期五 7,8,9 (14:20~17:20)
+- **上課地點**: 博雅103
+
+## 課程概述
+
+本系開授了很多課程，有些是必修課，所以資訊系的同學對這些領域都有基本的認識。同時有鑑於資訊學門還有很多領域，本系還開授了很多專精的選修課程。選修課程之眾多，就不是同學們可以一一修習的了。面對眾多領域，同學們在擇定大四專題或是研究所領域時，經常是茫然的。另一方面，擇定後，大部分同學僅專精於單一領域。倘若可以用較精簡時間對各個領域略有涉獵，應該有助於同學們對整體資訊學門的理解。本課程將由數位老師合開，原則上每位老師上兩週的課講解某個主題。
+
+## 課程目標
+
+本課程的目標在於讓修課同學：
+- 廣泛的涉獵資訊學門的各個領域
+- 了解自己之興趣、能力、強項所在；以利於未來擇定研究領域
 
 ## 合授教師
 
