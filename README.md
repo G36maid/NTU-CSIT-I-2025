@@ -42,24 +42,24 @@
 
 ## 課程進度與教材
 
-| 週次 | 日期 | 授課教師 | 單元主題 | 相關教材 |
-|:---:|:---:|:---:|:---|:---|
-| 1 | 9/5 | 蔡欣穆 / 黎士瑋 | Course Introduction & Operating Systems Research | [course introduction](course-materials/course%20introduction%202025%20fall%20v2.pdf), [week1 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week1-2025-fall.pdf) |
-| 2 | 9/12 | 黎士瑋 | Systems Security Research | [week2 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week2-2025-fall.pdf) |
-| 3 | 9/19 | 蔡欣穆 | Vehicular Networking & Visible Light Communications | [VLCP part 1](course-materials/%E5%89%8D%E7%9E%BB%20VLCP%202025%20part%201.pdf) |
-| 4 | 9/26 | 蔡欣穆 | [AI in Aviation](notes/04-week4-ai-in-aviation.md) & [Education](notes/05-week4-digital-learning-at-ntu.md) | [AI in Aviation](course-materials/W4%20AI%E5%9C%A8%E8%88%AA%E7%A9%BA%E9%A0%98%E5%9F%9F%E7%9A%84%E5%AF%A6%E8%B8%90.pdf), [Digital Learning](course-materials/W4%20Digital%20learning%20at%20NTU.pdf) |
-| 5 | 10/3 | 陳維超 | [GPGPU](notes/06-week5-gpgpu.md) | [GPGPU slides](course-materials/W5%20GPGPU.pdf) |
-| 6 | 10/10 | - | 國慶放假 | - |
-| 7 | 10/17 | 陳維超 | [Privacy-Preserving Computing](notes/07-week7-privacy-preserving-computing.md) | [PPC slides](course-materials/Privacy-Preserving%20Computing%20in%20the%20AI%20Era_v5.pdf) |
-| 8 | 10/24 | - | 光復節放假 | - |
-| 9 | 10/31 | 羅紹元 | [Trustworthy AI](notes/08-week9-trustworthy-ai.md) | [week9 slides](course-materials/csit25_w9_trai.pdf) |
-| 10 | 11/7 | 羅紹元 | [Trustworthy AI (Part 2)](notes/09-week10-trustworthy-ai-part2.md) | [week10 slides](course-materials/csit25_w10_trai.pdf) |
-| 11 | 11/14 | 鄧善元 | [Multimodal Human-Computer Interaction](notes/10-week11-multimodal-hci.md) | [HCI slides](course-materials/class_multimodal_HCI.pdf) |
-| 12 | 11/21 | - | 運動會停課 | - |
-| 13 | 11/28 | 鄧善元 | [Multimodal HCI (Sequential & 3D)](notes/11-week13-multimodal-hci-part2.md) | [HCI seq slides](course-materials/class_multimodal_HCI_seq.pdf) |
-| 14 | 12/5 | 張原豪 | [Memory and Storage Systems](notes/12-week14-memory-and-storage-systems.md) | [MS slides](course-materials/MS-2025.pdf) |
-| 15 | 12/12 | 張原豪 | Memory-Centric Computing | - |
-| 16 | 12/19 | - | 期末考週 | - |
+| 週次 | 日期 | 授課教師 | 單元主題 | 課程筆記 | 相關教材 |
+|:---:|:---:|:---:|:---|:---:|:---|\
+| 1 | 9/5 | 蔡欣穆 / 黎士瑋 | Course Introduction & Operating Systems Research | - | [course introduction](course-materials/course%20introduction%202025%20fall%20v2.pdf), [week1 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week1-2025-fall.pdf) |
+| 2 | 9/12 | 黎士瑋 | Systems Security Research | - | [week2 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week2-2025-fall.pdf) |
+| 3 | 9/19 | 蔡欣穆 | Vehicular Networking & Visible Light Communications | - | [VLCP part 1](course-materials/%E5%89%8D%E7%9E%BB%20VLCP%202025%20part%201.pdf) |
+| 4 | 9/26 | 蔡欣穆 | AI 應用與數位學習 | [AI in Aviation](notes/04-week4-ai-in-aviation.md), [Digital Learning](notes/05-week4-digital-learning-at-ntu.md) | [AI in Aviation](course-materials/W4%20AI%E5%9C%A8%E8%88%AA%E7%A9%BA%E9%A0%98%E5%9F%9F%E7%9A%84%E5%AF%A6%E8%B8%90.pdf), [Digital Learning](course-materials/W4%20Digital%20learning%20at%20NTU.pdf) |
+| 5 | 10/3 | 陳維超 | GPGPU | [GPGPU](notes/06-week5-gpgpu.md) | [GPGPU slides](course-materials/W5%20GPGPU.pdf) |
+| 6 | 10/10 | - | 國慶放假 | - | - |
+| 7 | 10/17 | 陳維超 | 隱私保護計算 | [Privacy-Preserving Computing](notes/07-week7-privacy-preserving-computing.md) | [PPC slides](course-materials/Privacy-Preserving%20Computing%20in%20the%20AI%20Era_v5.pdf) |
+| 8 | 10/24 | - | 光復節放假 | - | - |
+| 9 | 10/31 | 羅紹元 | 可信賴 AI | [Trustworthy AI](notes/08-week9-trustworthy-ai.md) | [week9 slides](course-materials/csit25_w9_trai.pdf) |
+| 10 | 11/7 | 羅紹元 | 可信賴 AI (Part 2) | [Trustworthy AI (Part 2)](notes/09-week10-trustworthy-ai-part2.md) | [week10 slides](course-materials/csit25_w10_trai.pdf) |
+| 11 | 11/14 | 鄧善元 | 多模態人機互動 | [Multimodal Human-Computer Interaction](notes/10-week11-multimodal-hci.md) | [HCI slides](course-materials/class_multimodal_HCI.pdf) |
+| 12 | 11/21 | - | 運動會停課 | - | - |
+| 13 | 11/28 | 鄧善元 | 多模態人機互動 (Sequential & 3D) | [Multimodal HCI (Sequential & 3D)](notes/11-week13-multimodal-hci-part2.md) | [HCI seq slides](course-materials/class_multimodal_HCI_seq.pdf) |
+| 14 | 12/5 | 張原豪 | 記憶體與儲存系統 | [Memory and Storage Systems](notes/12-week14-memory-and-storage-systems.md) | [MS slides](course-materials/MS-2025.pdf) |
+| 15 | 12/12 | 張原豪 | Memory-Centric Computing | - | - |
+| 16 | 12/19 | - | 期末考週 | - | - |
 
 ## 延伸資源
 
