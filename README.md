@@ -79,6 +79,9 @@
 - **NTU COOL**: [https://cool.ntu.edu.tw/courses/55220](https://cool.ntu.edu.tw/courses/55220)
 - **聯絡信箱**: [csit@csie.ntu.edu.tw](mailto:csit@csie.ntu.edu.tw)
 
+### 額外參考課程
+- [記憶體與儲存系統](https://www.csie.ntu.edu.tw/~johnson/courses/MemoryStorage202508/index.php?Login=1)
+
 ## 課程基本資訊
 
 - **課程名稱**: 前瞻資訊科技一 (Computer Science and Information Technology I)
