@@ -80,7 +80,7 @@
 - **聯絡信箱**: [csit@csie.ntu.edu.tw](mailto:csit@csie.ntu.edu.tw)
 
 ### 額外參考課程
-- [記憶體與儲存系統](https://www.csie.ntu.edu.tw/~johnson/courses/MemoryStorage202508/index.php?Login=1)
+- [記憶體與儲存系統](https://www.csie.ntu.edu.tw/~johnson/courses/MemoryStorage202508/)
 
 ## 課程基本資訊
 
