@@ -43,10 +43,10 @@
 ## 課程進度與教材
 
 | 週次 | 日期 | 授課教師 | 單元主題 | 課程筆記 | 相關教材 |
-|:---:|:---:|:---:|:---|:---:|:---|\
-| 1 | 9/5 | 蔡欣穆 / 黎士瑋 | Course Introduction & Operating Systems Research | - | [course introduction](course-materials/course%20introduction%202025%20fall%20v2.pdf), [week1 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week1-2025-fall.pdf) |
-| 2 | 9/12 | 黎士瑋 | Systems Security Research | - | [week2 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week2-2025-fall.pdf) |
-| 3 | 9/19 | 蔡欣穆 | Vehicular Networking & Visible Light Communications | - | [VLCP part 1](course-materials/%E5%89%8D%E7%9E%BB%20VLCP%202025%20part%201.pdf) |
+|:---:|:---:|:---:|:---|:---:|:---|
+| 1 | 9/5 | 蔡欣穆 / 黎士瑋 | Course Introduction & Operating Systems Research | [課程介紹](notes/00-course-introduction.md), [Week 1 筆記](notes/01-week1-operating-systems-security.md) | [course introduction](course-materials/course%20introduction%202025%20fall%20v2.pdf), [week1 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week1-2025-fall.pdf) |
+| 2 | 9/12 | 黎士瑋 | Systems Security Research | [Week 2 筆記](notes/02-week2-systems-security-research.md) | [week2 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week2-2025-fall.pdf) |
+| 3 | 9/19 | 蔡欣穆 | Vehicular Networking & Visible Light Communications | [Week 3 筆記](notes/03-week3-visible-light-communications-positioning.md) | [VLCP part 1](course-materials/%E5%89%8D%E7%9E%BB%20VLCP%202025%20part%201.pdf) |
 | 4 | 9/26 | 蔡欣穆 | AI 應用與數位學習 | [AI in Aviation](notes/04-week4-ai-in-aviation.md), [Digital Learning](notes/05-week4-digital-learning-at-ntu.md) | [AI in Aviation](course-materials/W4%20AI%E5%9C%A8%E8%88%AA%E7%A9%BA%E9%A0%98%E5%9F%9F%E7%9A%84%E5%AF%A6%E8%B8%90.pdf), [Digital Learning](course-materials/W4%20Digital%20learning%20at%20NTU.pdf) |
 | 5 | 10/3 | 陳維超 | GPGPU | [GPGPU](notes/06-week5-gpgpu.md) | [GPGPU slides](course-materials/W5%20GPGPU.pdf) |
 | 6 | 10/10 | - | 國慶放假 | - | - |
