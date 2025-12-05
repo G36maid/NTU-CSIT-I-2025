@@ -1,11 +1,13 @@
 # 前瞻資訊科技導論 (CSIE3015)
 
+本筆記整理了「前瞻資訊科技導論」課程的相關資料，包含課程筆記、每週教材、以及延伸資源。所有內容僅供學術交流使用，課程相關資訊請以 NTU COOL 公告為準。
+
 ## 課程筆記
 
 ### 課程介紹
 - [課程介紹](notes/00-course-introduction.md) - 課程基本資訊、成績計算、選課須知
 
-## 系統安全
+### 系統安全
 - [Week 1: Operating Systems 研究介紹](notes/01-week1-operating-systems-security.md) - 作業系統研究、Linux Kernel、虛擬化技術
 - [Week 2: Systems Security 研究介紹](notes/02-week2-systems-security-research.md) - 系統安全、記憶體安全、機密運算
 
@@ -14,11 +16,50 @@
   - [SARTRE Autonomous Road Train Project](notes/resources/sartre-autonomous-road-train.md) - 詳細的自動駕駛道路火車專案分析
   - [Berkeley PATH NAHSC](notes/resources/berkeley-path-nahsc.md) - 美國自動化高速公路系統聯盟歷史資料
 
+### AI 應用與數位學習
+- [Week 4: AI 在航空領域的實踐](notes/04-week4-ai-in-aviation.md) - AI 飛行安全分析、亂流預測、自動航管、語音辨識
+- [Week 4: 臺大數位學習發展](notes/05-week4-digital-learning-at-ntu.md) - NTU COOL 平台、AI 時代的教與學、未來教室
+
+### GPGPU 與並行計算
+- [Week 5: GPGPU 程式設計入門](notes/06-week5-gpgpu.md) - GPGPU 概念、CUDA 程式設計模型、硬體架構
+
+### 隱私保護計算
+- [Week 7: AI 時代的隱私保護計算](notes/07-week7-privacy-preserving-computing.md) - 同態加密 (HE)、安全多方計算 (MPC)、可信執行環境 (TEE)
+
+### 可信賴 AI
+- [Week 9: Trustworthy AI](notes/08-week9-trustworthy-ai.md) - 對抗性攻擊與防禦、MLLM 於 AI 安全的應用
+- [Week 10: LLM 安全性與研究者職涯](notes/09-week10-trustworthy-ai-part2.md) - LLM 攻擊向量、越獄、博士職涯發展
+
+### 多模態人機互動
+- [Week 11: Multimodal Human-Computer Interaction](notes/10-week11-multimodal-hci.md) - HCI 歷史、多模態優勢、感知原理與觸覺技術
+- [Week 13: Multimodal HCI (Part 2)](notes/11-week13-multimodal-hci-part2.md) - 觸覺幻象、學習與無障礙性
+
+### 記憶體與儲存系統
+- [Week 14: Memory and Storage Systems](notes/12-week14-memory-and-storage-systems.md) - 儲存媒體演進、HDD/SSD 原理、次世代記憶體與 PIM
+
 ### 待補充 (課程進行中)
-- Week 4: Light Communications and Positioning (Part 2)
-- Week 9-10: Trustworthy AI
-- Week 11, 13: Multimodal Human-Computer Interaction  
-- Week 14-15: Memory and Storage Systems, Memory-Centric Computing
+- Week 15: Memory-Centric Computing
+
+## 課程進度與教材
+
+| 週次 | 日期 | 授課教師 | 單元主題 | 相關教材 |
+|:---:|:---:|:---:|:---|:---|
+| 1 | 9/5 | 蔡欣穆 / 黎士瑋 | Course Introduction & Operating Systems Research | [course introduction](course-materials/course%20introduction%202025%20fall%20v2.pdf), [week1 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week1-2025-fall.pdf) |
+| 2 | 9/12 | 黎士瑋 | Systems Security Research | [week2 slides](course-materials/%E5%89%8D%E7%9E%BB%E7%A7%91%E6%8A%80-week2-2025-fall.pdf) |
+| 3 | 9/19 | 蔡欣穆 | Vehicular Networking & Visible Light Communications | [VLCP part 1](course-materials/%E5%89%8D%E7%9E%BB%20VLCP%202025%20part%201.pdf) |
+| 4 | 9/26 | 蔡欣穆 | [AI in Aviation](notes/04-week4-ai-in-aviation.md) & [Education](notes/05-week4-digital-learning-at-ntu.md) | [AI in Aviation](course-materials/W4%20AI%E5%9C%A8%E8%88%AA%E7%A9%BA%E9%A0%98%E5%9F%9F%E7%9A%84%E5%AF%A6%E8%B8%90.pdf), [Digital Learning](course-materials/W4%20Digital%20learning%20at%20NTU.pdf) |
+| 5 | 10/3 | 陳維超 | [GPGPU](notes/06-week5-gpgpu.md) | [GPGPU slides](course-materials/W5%20GPGPU.pdf) |
+| 6 | 10/10 | - | 國慶放假 | - |
+| 7 | 10/17 | 陳維超 | [Privacy-Preserving Computing](notes/07-week7-privacy-preserving-computing.md) | [PPC slides](course-materials/Privacy-Preserving%20Computing%20in%20the%20AI%20Era_v5.pdf) |
+| 8 | 10/24 | - | 光復節放假 | - |
+| 9 | 10/31 | 羅紹元 | [Trustworthy AI](notes/08-week9-trustworthy-ai.md) | [week9 slides](course-materials/csit25_w9_trai.pdf) |
+| 10 | 11/7 | 羅紹元 | [Trustworthy AI (Part 2)](notes/09-week10-trustworthy-ai-part2.md) | [week10 slides](course-materials/csit25_w10_trai.pdf) |
+| 11 | 11/14 | 鄧善元 | [Multimodal Human-Computer Interaction](notes/10-week11-multimodal-hci.md) | [HCI slides](course-materials/class_multimodal_HCI.pdf) |
+| 12 | 11/21 | - | 運動會停課 | - |
+| 13 | 11/28 | 鄧善元 | [Multimodal HCI (Sequential & 3D)](notes/11-week13-multimodal-hci-part2.md) | [HCI seq slides](course-materials/class_multimodal_HCI_seq.pdf) |
+| 14 | 12/5 | 張原豪 | [Memory and Storage Systems](notes/12-week14-memory-and-storage-systems.md) | [MS slides](course-materials/MS-2025.pdf) |
+| 15 | 12/12 | 張原豪 | Memory-Centric Computing | - |
+| 16 | 12/19 | - | 期末考週 | - |
 
 ## 延伸資源
 
@@ -37,27 +78,6 @@
 - **課程網站**: [https://www.csie.ntu.edu.tw/~hsinmu/site/courses/25fallcsit](https://www.csie.ntu.edu.tw/~hsinmu/site/courses/25fallcsit)
 - **NTU COOL**: [https://cool.ntu.edu.tw/courses/55220](https://cool.ntu.edu.tw/courses/55220)
 - **聯絡信箱**: [csit@csie.ntu.edu.tw](mailto:csit@csie.ntu.edu.tw)
-
-## 課程進度
-
-| 週次 | 日期 | 授課教師 | 單元主題 |
-|------|------|----------|----------|
-| 第1週 | 9/5 | 黎士瑋 | Introduction to computer systems and security research - operating systems |
-| 第2週 | 9/12 | 黎士瑋 | Introduction to computer systems and security research - security |
-| 第3週 | 9/19 | 蔡欣穆 | Vehicular Networking |
-| 第4週 | 9/26 | 陳維超 | Light Communications and Positioning |
-| 第5週 | 10/3 | TBD | TBD |
-| 第6週 | 10/10 | - | No Class; Taiwan National Day |
-| 第7週 | 10/17 | TBD | TBD |
-| 第8週 | 10/24 | - | No Class; Taiwan Restoration Day |
-| 第9週 | 10/31 | 羅紹元 | Trustworthy AI |
-| 第10週 | 11/7 | 羅紹元 | Trustworthy AI |
-| 第11週 | 11/14 | 鄧善元 | Multimodal Human-Computer Interaction |
-| 第12週 | 11/21 | - | No Class; School Sports Day |
-| 第13週 | 11/28 | 鄧善元 | Multimodal Human-Computer Interaction |
-| 第14週 | 12/5 | 張原豪 | Memory and Storage Systems |
-| 第15週 | 12/12 | 張原豪 | Memory-Centric Computing |
-| 第16週 | 12/19 | - | No Class; Final Exam Week |
 
 ## 課程基本資訊
 
